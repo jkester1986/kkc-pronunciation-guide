@@ -4,7 +4,7 @@ This pronunciation guide was put together with care in 2016 by clipping & compil
 I hope this guide is helpful! Also, please feel free to let me know if you think any adjustments are needed
 
 
-## Reference Key
+## Reference Source
 I used Wikipedia's pronuciation key: https://en.wiktionary.org/wiki/Appendix:English_pronunciation
 (just using enPR / AHD column, and also grabbing some from other word pronunciations on wiktionary)
 
