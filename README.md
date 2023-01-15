@@ -1,5 +1,5 @@
 # Kingkiller Chronicle Pronunciation Guide
-This pronunciation guide was put together with care in 2016 by clipping & compiling audio of each pronunciation directly from Pat Rothfus's Twitch livestream (via his archived Twitch stream here: https://www.youtube.com/watch?v=MPEB6NAGoYk). I also spent a painstaking amount of time listening to each word/name in order to write out the phonetic spellings as accurately as possible.
+This pronunciation guide was put together with care in 2016 by clipping & compiling audio of each pronunciation directly from Pat Rothfus's Twitch livestream (via his [archived Twitch stream](https://www.youtube.com/watch?v=MPEB6NAGoYk)). I also spent a painstaking amount of time listening to each word/name in order to write out the phonetic spellings as accurately as possible.
 
 I hope this guide is helpful! Also, please feel free to let me know if you think any adjustments are needed
 
