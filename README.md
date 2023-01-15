@@ -1,2 +1,107 @@
-# kkc-pronunciation-guide
-Kingkiller Chronicle Pronunciation Guide
+# Kingkiller Chronicle Pronunciation Guide
+This pronunciation guide was put together with care in 2016 by clipping & compiling audio of each pronunciation directly from Pat Rothfus's Twitch livestream (via his archived Twitch stream here: https://www.youtube.com/watch?v=MPEB6NAGoYk). I also spent a painstaking amount of time listening to each word/name in order to write out the phonetic spellings as accurately as possible.
+
+I hope this guide is helpful! Also, please feel free to let me know if you think any adjustments are needed
+
+
+## Reference Key
+I used Wikipedia's pronuciation key: https://en.wiktionary.org/wiki/Appendix:English_pronunciation
+(just using enPR / AHD column, and also grabbing some from other word pronunciations on wiktionary)
+
+## Guide
+
+* Abenthy - _Æ_-bĭn-thē - [listen >](http://juliakester.com/KingkillerPronunciations/Abenthy.mp3)
+* Adem - _Ā_-dĕm - [listen >](http://juliakester.com/KingkillerPronunciations/Adem.mp3)
+* Ademre - Ā-_dĕm_-rā - [listen >](http://juliakester.com/KingkillerPronunciations/Ademre.mp3)
+* Alar - Ŭh-_lɒɹ_ - [listen >](http://juliakester.com/KingkillerPronunciations/Alar.mp3)
+    * or _Ā_-lɒɹ - [listen >](http://juliakester.com/KingkillerPronunciations/Aylar.mp3)
+* Aleph - _Ā_-lĕf - [listen >](http://juliakester.com/KingkillerPronunciations/Aleph.mp3)
+* Aloine - _Ā_-lo͞o-ēn - [listen >](http://juliakester.com/KingkillerPronunciations/Aloine.mp3)
+* Alveron - _Æl_-vĕɹ-ɒn - [listen >](http://juliakester.com/KingkillerPronunciations/Alveron.mp3)
+* Amauen - Ŭh-_mou_-ĭn - [listen >](http://juliakester.com/KingkillerPronunciations/Amauen.mp3)
+* Amyr - _Ā_-mēr - [listen >](http://juliakester.com/KingkillerPronunciations/Amyr.mp3)
+* Anpauen - Æn-_pou_-ĭn  - [listen >](http://juliakester.com/KingkillerPronunciations/Anpauen.mp3)
+* Arcanist - Aɹ-_cæn_-ist - [listen >](http://juliakester.com/KingkillerPronunciations/Arcanist.mp3)
+* Aturan - Ā-_tûr_-ĭn - [listen >](http://juliakester.com/KingkillerPronunciations/Aturan.mp3)
+* Auri - _Aɹ_-ē - [listen >](http://juliakester.com/KingkillerPronunciations/Auri.mp3)
+    * or _Ɔ_-rē - [listen >](http://juliakester.com/KingkillerPronunciations/Awri.mp3)
+* Bast - Bæst - [listen >](http://juliakester.com/KingkillerPronunciations/Bast.mp3)
+* Caesura - Sĭ-_so͝or_-ŭh - [listen >](http://juliakester.com/KingkillerPronunciations/Soosooruh.mp3)
+* Carceret - _Caɹ_-sûr-ĕt - [listen >](http://juliakester.com/KingkillerPronunciations/Carceret.mp3)
+* Cealdish - Sā-_al_-dish [^1]
+    * Or _Chal_-dish [^1]
+    * Or Kā-_al_-dish - [listen >](http://juliakester.com/KingkillerPronunciations/kayaldish.mp3)
+    * Or _Shal_-dish - [listen >](http://juliakester.com/KingkillerPronunciations/Shaldish.mp3)
+* Ceald - Shɒld - [listen >](http://juliakester.com/KingkillerPronunciations/Ceald.mp3)
+* Centhe (Centhe Sea) - _Sĕn_-thĕ - [listen >](http://juliakester.com/KingkillerPronunciations/Centhe.mp3)
+* Chandrian - _Chăn_-drē-ĭn - [listen >](http://juliakester.com/KingkillerPronunciations/Chandrian.mp3)
+* Cinnas - _Sĭn_-ĭss - [listen >](http://juliakester.com/KingkillerPronunciations/Cinnas.mp3)
+* Ciridae - _Sēr_-ĭ-dā - [listen >](http://juliakester.com/KingkillerPronunciations/Ciridae.mp3)
+* Cthaeh	 - K-_thā_ - [listen >](http://juliakester.com/KingkillerPronunciations/Cthaeh.mp3)
+* Denna - _Dĕn_-ŭh - [listen >](http://juliakester.com/KingkillerPronunciations/Denna.mp3)
+* Devan Lochees - _Dā_-væn Lɒ’-kēz - [listen >](http://juliakester.com/KingkillerPronunciations/DevanLochees.mp3)
+* Devi - _Dĕ_-vē - [listen >](http://juliakester.com/KingkillerPronunciations/Devi.mp3)
+    * _Dā_-vē is also permissible - [listen >](http://juliakester.com/KingkillerPronunciations/Davi.mp3)
+* Edema Ruh - Ā-_dĕh_-mŭh Ro͞o - [listen >](http://juliakester.com/KingkillerPronunciations/Edema%20Ru.mp3)
+* Elodin - _Ĕl_-ō-dĭn - [listen >](http://juliakester.com/KingkillerPronunciations/Elodin.mp3)
+* Elxa Dal - _Ĕl_-ksŭh Dɒl - [listen >](http://juliakester.com/KingkillerPronunciations/ElxaDal.mp3)
+* El’the - _Ĕl_-thĕ - [listen >](http://juliakester.com/KingkillerPronunciations/Elthe.mp3)
+* Eolian - Ā-_ō_-lē-ĭn - [listen >](http://juliakester.com/KingkillerPronunciations/Eolian.mp3)
+* Feant - Fānt [^1]
+* Fela - _Fĕl_-ŭh - [listen >](http://juliakester.com/KingkillerPronunciations/Fela.mp3)
+* Felurian - Fə-_lūr_-ē-ĭn - [listen >](http://juliakester.com/KingkillerPronunciations/Felurian.mp3)
+* Foxen - _Fɒks_-ĭn - [listen >](http://juliakester.com/KingkillerPronunciations/Foxen.mp3)
+* Gaelet - _Gā_-lĭt - [listen >](http://juliakester.com/KingkillerPronunciations/Gaelet.mp3)
+* Haert - Hā-_ârt_ - [listen >](http://juliakester.com/KingkillerPronunciations/Haert.mp3)
+* Hemme - Hĕm - [listen >](http://juliakester.com/KingkillerPronunciations/Hemme.mp3)
+* Imre - _Im_-rē - [listen >](http://juliakester.com/KingkillerPronunciations/Imre.mp3)
+    * or _Im_-rā - [listen >](http://juliakester.com/KingkillerPronunciations/Imray.mp3)
+* Kist - Kĭsst - [listen >](http://juliakester.com/KingkillerPronunciations/Kist.mp3)
+* Kote - Kōt - [listen >](http://juliakester.com/KingkillerPronunciations/Kote.mp3)
+* Kraem - _Krā_-ĕm - [listen >](http://juliakester.com/KingkillerPronunciations/Kraem.mp3)
+* Kvothe - Kvōth - [listen >](http://juliakester.com/KingkillerPronunciations/Kvothe.mp3)
+* Lanre - _Læn_-rā - [listen >](http://juliakester.com/KingkillerPronunciations/Lanre.mp3)
+* Letantha - Lĭ-_tæn_-thŭh - [listen >](http://juliakester.com/KingkillerPronunciations/Letantha.mp3)
+* Lethani - Lŭh-_thɒ_-nē - [listen >](http://juliakester.com/KingkillerPronunciations/Lethani.mp3)
+* Lyra - _Lēr_-ŭh - [listen >](http://juliakester.com/KingkillerPronunciations/Lyra.mp3)
+* Maedre - _Mā_-drĕ - [listen >](http://juliakester.com/KingkillerPronunciations/Maedre.mp3)
+* Maer - Mār - [listen >](http://juliakester.com/KingkillerPronunciations/Maer.mp3)
+* Modeg - _Mō_-deg - [listen >](http://juliakester.com/KingkillerPronunciations/Modeg.mp3)
+* Myr Tariniel - Mēr Tŭh-_rĭ_-nē-el - [listen >](http://juliakester.com/KingkillerPronunciations/MyrTariniel.mp3)
+* Newarre - Nō-_ɑɹ_ - [listen >](http://juliakester.com/KingkillerPronunciations/Newarre.mp3)
+* Reshi - _Rĕ_-shē - [listen >](http://juliakester.com/KingkillerPronunciations/Reshi.mp3)
+    * Bast originally referred to Kvothe as Kashi (_ka_-shē) - [listen >](http://juliakester.com/KingkillerPronunciations/Kashi.mp3)
+        * Changed b/c it is a brand of cereal
+* Re’lar - Rĭ-_lɒɹ_ - [listen >](http://juliakester.com/KingkillerPronunciations/Relar.mp3)
+* Rike - Rīk - [listen >](http://juliakester.com/KingkillerPronunciations/Rike.mp3)
+* Saicere - _Sā_-sûr-ĕh - [listen >](http://juliakester.com/KingkillerPronunciations/Saicere.mp3)
+* Savien - _Sā_-vē-ĭn - [listen >](http://juliakester.com/KingkillerPronunciations/Savien.mp3)
+* Scrael - Skrāl - [listen >](http://juliakester.com/KingkillerPronunciations/Scrael.mp3)
+* Selas - _Sĕl_-ĭss - [listen >](http://juliakester.com/KingkillerPronunciations/Selas.mp3)
+* Shaed - Shād - [listen >](http://juliakester.com/KingkillerPronunciations/Shaed.mp3)
+* Siaru - Sē-_ɒh_-ro͞o - [listen >](http://juliakester.com/KingkillerPronunciations/Siaru.mp3)
+* Simmon - _Sĭm_-ĭn - [listen >](http://juliakester.com/KingkillerPronunciations/Simmon.mp3)
+* Sithe - Sĭth - [listen >](http://juliakester.com/KingkillerPronunciations/Sithe.mp3)
+* Skarpi - _Scaɹ_-pē - [listen >](http://juliakester.com/KingkillerPronunciations/Skarpi.mp3)
+* Taborlin - _Tæ_-bûr-lĭn - [listen >](http://juliakester.com/KingkillerPronunciations/TaborlinTheGreat.mp3)
+* Tahlenwold- _Tɒl_-ĭn-wɒld - [listen >](http://juliakester.com/KingkillerPronunciations/Tahlenwold.mp3)
+* Tarbean - Tär-_bē_-ĭn - [listen >](http://juliakester.com/KingkillerPronunciations/Tarbean.mp3)
+* Teccam - _Tĕh_-kŭm - [listen >](http://juliakester.com/KingkillerPronunciations/Teccam.mp3)
+* Tehlin - _Tā_-lĭn - [listen >](http://juliakester.com/KingkillerPronunciations/Tehlin.mp3)
+* Tehlu - _Tā_-lo͞o - [listen >](http://juliakester.com/KingkillerPronunciations/Tehlu.mp3)
+* Temerant - _Tĕ_-mər-ant [^1]
+* Tempi - _Tĕm_-pē - [listen >](http://juliakester.com/KingkillerPronunciations/Tempi.mp3)
+* Threpe - Thrĕp - [listen >](http://juliakester.com/KingkillerPronunciations/Threpe.mp3)
+* Tinuë - _Tĭn_-yo͞o-ā - [listen >](http://juliakester.com/KingkillerPronunciations/Tinue.mp3)
+* Trebon - _Trā_-bĭn - [listen >](http://juliakester.com/KingkillerPronunciations/Trebon.mp3)
+* Usnea - _ŌŌs_-nē-ŭh - [listen >](http://juliakester.com/KingkillerPronunciations/Usnea.mp3)
+* Valeritas - Vĕl-_âr_-ĭ-tɒs - [listen >](http://juliakester.com/KingkillerPronunciations/Valeritas.mp3)
+* Vashet - V-_shĕt_ - [listen >](http://juliakester.com/KingkillerPronunciations/Vashet.mp3)
+* Vorfelan Rhinata Morie - Vôr-_fā_-lĭn Rĭ-_nɒ_-tŭh _Môr_-ā - [listen >](http://juliakester.com/KingkillerPronunciations/VorfelanRhinataMorie.mp3)
+* Wilem - _Wil_-ĕm - [listen >](http://juliakester.com/KingkillerPronunciations/Willem.mp3)
+* Yllish - _Yĭl_-ĭsh - [listen >](http://juliakester.com/KingkillerPronunciations/Yllish.mp3)
+* Yll - Yĭl - [listen >](http://juliakester.com/KingkillerPronunciations/Yll.mp3)
+
+
+
+[^1]: This is a word from a stream Patrick Rothfuss did that was no longer available for viewing when working on this guide, so I could not grab the audio for it
